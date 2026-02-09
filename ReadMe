@@ -1,0 +1,30 @@
+
+
+# MERN Authentication App
+
+A simple MERN stack authentication project with:
+
+- User registration (no auto-login)
+- Login using JWT
+- Protected dashboard
+- Clean auth flow separation
+
+## Folder Structure
+
+backend/   – Node.js + Express API  
+suraj/     – React frontend  
+
+## Tech Stack
+
+- React
+- Node.js
+- Express
+- MongoDB
+- JWT
+
+## Setup Instructions
+
+1. Clone the repository
+2. Install dependencies in both frontend and backend
+3. Create a `.env` file in backend with required variables
+4. Run backend and frontend servers
